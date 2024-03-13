@@ -1,5 +1,6 @@
 # global_navigation_spot
-Master thesis repository for global navigation
+**Master thesis repository for global navigation**
+
 This repository contain several repositories loaded as submodules. 
 - https://github.com/swri-robotics/mapviz
 - https://github.com/KumarRobotics/ublox
