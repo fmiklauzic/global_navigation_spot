@@ -2,6 +2,7 @@
 **Master thesis repository for global navigation**
 
 This repository contain current state of the art packages listed below to ensure that everything will work in the future after some of the package is being updated.
+
 Used packages:
 - https://github.com/swri-robotics/mapviz
 - https://github.com/KumarRobotics/ublox
