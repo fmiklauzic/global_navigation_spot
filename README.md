@@ -14,3 +14,5 @@ Used packages:
 
 This repository contains changes to the mentioned repositories necessary to perform the task of global navigation using Spot mobile robot. 
 Mobile robot control unit package is intended for ROS2 Humble while the Navigation control unit can be built on ROS2 Iron or newer.
+
+STL models of carriers are placed in _equipment carrier_ folder.
